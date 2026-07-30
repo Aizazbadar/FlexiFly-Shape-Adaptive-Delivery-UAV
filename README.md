@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/0b7f0b40-767a-46c0-b590-73144f73be88
+
 # ShapeShifter Drone Simulator
 
 A drone simulation system that mimics real-life flight behavior. It features realistic controls, live data readouts, and the ability to change the drone's physical shape for different tasks. You can use this for testing drone software, training pilots, or experimenting with flight logic without needing a real drone.
